@@ -52,7 +52,7 @@ Menggunakan fungsi yang memanggil dirinya sendiri (`self-calling`) dengan parame
 
 | Dashboard Utama | Grafik Analisis |
 | :---: | :---: |
-| ![Dashboard](ss1.png) | ![Grafik](screenshot_graph.png) |
+| ![Dashboard](ss1.png) | ![Grafik](benchmark_photo.png) |
 
 ---
 
