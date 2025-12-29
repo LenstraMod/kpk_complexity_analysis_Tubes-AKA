@@ -50,8 +50,6 @@ Menggunakan fungsi yang memanggil dirinya sendiri (`self-calling`) dengan parame
 
 ## 📸 Screenshots
 
-*(Simpan screenshot aplikasimu di folder proyek, lalu ganti nama file di bawah ini)*
-
 | Dashboard Utama | Grafik Analisis |
 | :---: | :---: |
 | ![Dashboard](screenshot_dashboard.png) | ![Grafik](screenshot_graph.png) |
