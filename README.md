@@ -40,7 +40,7 @@ Menggunakan pendekatan `while(True)` yang akan terus berjalan hingga kelipatan d
 
 ### 2. Rekursif (Fungsi)
 Menggunakan fungsi yang memanggil dirinya sendiri (`self-calling`) dengan parameter yang diperbarui.
-* **Persamaan Waktu:** $T(n) = 11k - 1$
+* **Persamaan Waktu:** $T(n) = T(n-1) + 1$
 * **Kompleksitas:** $O(n)$
 * **Karakteristik:** Memiliki *overhead* waktu lebih tinggi karena alokasi stack frame, dan rentan terhadap *Stack Overflow* pada input > 15.000 (Space Complexity $O(n)$).
 
