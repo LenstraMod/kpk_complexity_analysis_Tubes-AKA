@@ -60,8 +60,8 @@ st.markdown("<h1 style='text-align: center; color: #4F8BF9;'>🧮 Analisis Kompl
 st.header("\nKelompok : Nasgor Goreng")
 
 data_kelompok = {
-    "NamaMahasiswa": ["Abraham Shalom Nadeak", "Nauvalky Kusfito Guci", "Petrus Bramnonsas Agustino"],
-    "NIM": ["103022400008", "103022400xxx", "103022400xxx"]
+    "NamaMahasiswa": ["Abraham Shalom Nadeak", "Nauvalky Kusfito Guci", "Petrus Brammonsas Agustino"],
+    "NIM": ["103022400008", "103022400014", "103022400079"]
 }
 
 df_kelompok = pd.DataFrame(data_kelompok)
