@@ -14,8 +14,8 @@ Tujuan utamanya bukan hanya mencari hasil KPK, melainkan **menganalisis kompleks
 ## 👥 Tim Penyusun (Nasgor Goreng)
 Proyek ini disusun untuk memenuhi Tugas Besar Analisis Kompleksitas Algoritma.
 * **Abraham Shalom Nadeak** (NIM: 103022400008)
-* **Nauvalky Kusfito Guci** (NIM: 103022400xxx)
-* **Petrus Bramnonsas Agustino** (NIM: 103022400xxx)
+* **Nauvalky Kusfito Guci** (NIM: 103022400014)
+* **Petrus Bramnonsas Agustino** (NIM: 103022400079)
 
 ---
 
@@ -34,7 +34,7 @@ Berdasarkan pengujian dan analisis kode, berikut adalah perbandingan kompleksita
 
 ### 1. Iteratif (Looping)
 Menggunakan pendekatan `while(True)` yang akan terus berjalan hingga kelipatan ditemukan.
-* **Persamaan Waktu:** $T(n) = 8k + 4$
+* **Persamaan Waktu:** $$T(n) = \sum_{i=1}^{n} 1$$
 * **Kompleksitas:** $O(n)$
 * **Karakteristik:** Lebih hemat memori ($O(1)$ Space Complexity).
 
