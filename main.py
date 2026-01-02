@@ -149,10 +149,6 @@ if btn:
         with col_tn1:
             st.markdown("### 🔵 Iteratif (Loop)")
             st.metric("Waktu Real", f"{waktu_iter} ms")
-            st.markdown("**Rumus T(n):**")
-            st.latex(r"Coming Soon")
-            st.markdown("**Substitusi Nilai k:**")
-            st.code(f"Coming Soon")
             st.markdown(f"**Total Operasi CPU:**")
             st.markdown(f"### {tn_iteratif} instruksi")
             st.caption("Kompleksitas: **Linear O(n)**")
@@ -167,12 +163,6 @@ if btn:
                 tn_rekursif = (11 * count_rek) - 1
                 
                 st.metric("Waktu Real", f"{waktu_rek:.5f} ms")
-                
-                st.markdown("**Rumus T(n):**")
-                st.latex(r"Coming Soon")
-                
-                st.markdown("**Substitusi Nilai k:**")
-                st.code(f"Coming Soon")
                 
                 st.markdown(f"**Total Operasi CPU:**")
                 st.markdown(f"### {tn_rekursif} instruksi")
